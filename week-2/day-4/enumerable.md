@@ -13,7 +13,6 @@
 
 # I'm all about the 80's
 
-![inline](https://media.giphy.com/media/zyx4xCaaQzlGo/giphy.gif)
 
 ---
 
@@ -40,9 +39,6 @@ end
 ---
 
 # Lets talk about blocks
-
-![inline](https://media.giphy.com/media/B6ZTenBvlzOFO/giphy.gif)
-
 ---
 
 # Ruby Blocks
@@ -111,7 +107,6 @@ end
 
 ---
 
-![original](https://s3.amazonaws.com/media-p.slid.es/uploads/329163/images/1396816/giphy.gif)
 
 # Finding Elements
 
@@ -172,7 +167,6 @@ favorite_movie = movies.find { |movie| movie == "Better Off Dead" }
 
 ---
 
-![50%](https://s3.amazonaws.com/media-p.slid.es/uploads/329163/images/1396908/cornucopia.jpg)
 
 # Enumerable's Cornucopia
 
